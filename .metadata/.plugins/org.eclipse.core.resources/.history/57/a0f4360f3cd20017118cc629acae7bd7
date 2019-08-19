@@ -1,0 +1,39 @@
+package mx.com.uacm.ProyectoFinalUACM;
+
+public class Primero {
+	 private String nombre;
+	 private String tipoSangre;
+	 private String celular;
+	 private String sinMedicina;
+	 private String gripe;
+	 private String diabetes;
+	 private String hipertension;
+	 private String libreDeAlcohol;
+	 private String horasAyunoSinGrasa;
+	 private String vacunas;
+	 private String peso;
+	 private String estatura;
+	 privateString tatuajes;
+	 private String embarazoLactencia;
+	 private String edad;
+	 
+	public Primero() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public String getNombre() {
+		return nombre;
+	}
+
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+	 
+	
+	 
+	 
+	 
+	 
+	 
+
+}

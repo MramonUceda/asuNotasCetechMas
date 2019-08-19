@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;EscribirFicheros.java&apos; to &apos;ProyectoFinalUACM/src/mx.com.uacm.ProyectoFinalUACM&apos;&#x0D;&#x0A;- Original project: &apos;Clase 11&apos;&#x0D;&#x0A;- Destination element: &apos;ProyectoFinalUACM/src/mx.com.uacm.ProyectoFinalUACM&apos;&#x0D;&#x0A;- Original element: &apos;mx.com.Cetech.Clase11.Ficheros.EscribirFicheros.java&apos;" description="Copy compilation unit" destination="=ProyectoFinalUACM/src&lt;mx.com.uacm.ProyectoFinalUACM" element1="/src&lt;mx.com.Cetech.Clase11.Ficheros{EscribirFicheros.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1512246833439" units="1" version="1.0"/>
+</session>

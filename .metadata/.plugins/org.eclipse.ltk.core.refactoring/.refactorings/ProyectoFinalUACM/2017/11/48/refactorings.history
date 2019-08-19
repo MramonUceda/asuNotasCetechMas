@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;mx.com.uacm.ProyectoFinalUACM.archivo&apos; to &apos;leerFichero&apos;&#x0D;&#x0A;- Original project: &apos;ProyectoFinalUACM&apos;&#x0D;&#x0A;- Original element: &apos;mx.com.uacm.ProyectoFinalUACM.archivo&apos;&#x0D;&#x0A;- Renamed element: &apos;mx.com.uacm.ProyectoFinalUACM.leerFichero&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;archivo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;mx.com.uacm.ProyectoFinalUACM{archivo.java[archivo" matchStrategy="1" name="leerFichero" qualified="false" references="true" similarDeclarations="false" stamp="1511929866995" textual="false" version="1.0"/>
+</session>

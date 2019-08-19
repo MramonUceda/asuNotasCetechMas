@@ -1,0 +1,20 @@
+package mx.edu.uacm.TareaEscuela;
+
+import java.util.Scanner;
+
+public class carroMenu {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		carroCoche usar = new carroCoche();
+		System.out.println("Este programa es para usar el carro.");
+		
+		int sino;
+		System.out.println("¿Desea abrir la puerta del coche?");
+		Scanner teclado = new Scanner(System.in);
+		sino = teclado.nextInt();
+		usar.AbrirPuerta(sino);
+	}
+	
+
+}

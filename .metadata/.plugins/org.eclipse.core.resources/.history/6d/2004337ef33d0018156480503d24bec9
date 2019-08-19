@@ -1,0 +1,15 @@
+package mx.com.Cetech.Clase8.TemaString;
+
+public class SacarUnUsuario {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String primerNombre;
+		String apellidoPaterno;
+		String apellidoMaterno;
+		String aux = null;
+		
+
+	}
+
+}

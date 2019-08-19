@@ -1,0 +1,15 @@
+package mx.edu.uacm.TareaEscuela;
+
+import java.util.Scanner;
+
+
+public class carroCoche {
+	String color;
+	String marca;
+	int velocidad;
+	String modelo;
+	String motor;
+	
+	
+	
+}

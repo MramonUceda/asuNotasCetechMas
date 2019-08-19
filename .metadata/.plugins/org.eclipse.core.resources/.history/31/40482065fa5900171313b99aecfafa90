@@ -1,0 +1,30 @@
+package mx.com.Cetech.clase5.Tarea;
+
+public class Boleta {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String espacios[][] = new String [3][3];
+		
+		espacios [0][0] = "Materias\t";
+		espacios [0][1] = "1°Parcial\t";
+		espacios [0][2] = "2°Parcial\t";
+		espacios [1][0] = "Ingles\t";
+		espacios [1][1] = "Ing\t\t";
+		espacios [1][2] = "dfr\t";
+		espacios [2][0] = "Patr\t";
+		espacios [2][1] = "Carlos\t";
+		espacios [2][2] = "efefr\t";
+		
+		for(int i = 0; i<3; i++){
+			for(int j =0; j<3; j++){
+				System.out.print(espacios[i][j]);
+			}
+			System.out.print("\n");
+		}
+		
+		
+		
+	}
+
+}

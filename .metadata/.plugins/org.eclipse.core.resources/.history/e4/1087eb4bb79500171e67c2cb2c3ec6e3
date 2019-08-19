@@ -1,0 +1,10 @@
+package mx.edu.uacm.TareaEscuela;
+
+public class carroMenu {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,24 @@
+package mx.com.uacm.ProyectoFinalUACM;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.Reader;
+
+public class ArchivoProyecto {
+	public void escribir(Primero ingresar){
+		try {
+			File f = new File("pryecto.txt");
+			if(f.exists()){// si el archivo existe hará :
+				FileWriter fw = new FileWriter(f);
+				BufferedWriter bw = new BufferedWriter(fw);
+				bw.newLine(); //antes de escribir una nueva persona dejrá una linea
+				bw.write(ingresar.getNombre());
+			}
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+	}
+}

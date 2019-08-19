@@ -1,0 +1,25 @@
+package mx.edu.uacm.TareaEscuela;
+
+import java.util.Scanner;
+
+public class carroCoche {
+	String color;
+	String marca;
+	int velocidad;
+	String modelo;
+	String motor;
+	
+	public void AbrirPuerta(char sN){
+		char sino;
+		System.out.println("¿Desea abrir la puerta del coche?");
+		Scanner teclado = new Scanner(System.in);
+		sino = teclado.next();
+		if( sino == s){
+			System.out.println("Puerta abierta.");
+		}else{
+			System.out.println("Aun la puerta sigue cerrada.");
+		}
+		
+		
+	}
+}

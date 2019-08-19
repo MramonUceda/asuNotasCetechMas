@@ -1,0 +1,27 @@
+
+public class ifAnidados {
+
+	public static void main(String[] args) {
+		boolean isCondicioUno = true;
+		boolean isCondicioDos = true;
+		boolean isCondicioTres = true;
+		
+		if(isCondicioUno){
+			System.out.println("Dentro del primer if");
+			if(isCondicioDos){
+				System.out.println("Dentro del segundo if");
+				if(isCondicioTres){
+					System.out.println("Dentro del tecer if");
+				}else{
+					System.out.println("Fuera del primer If");
+				}
+			}else{
+				System.out.println("Fuera del segundo If");
+			}
+		}else{
+			System.out.println("Fuera del tercer If");
+		}
+		System.out.println("Fin del programa");
+	}
+
+}

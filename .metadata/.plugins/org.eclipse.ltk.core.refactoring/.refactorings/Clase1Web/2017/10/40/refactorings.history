@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;SumaService.java&apos; to &apos;Clase1Web/src/mx.com.Cetech.Clase1Web.SumaSerive&apos;&#x0D;&#x0A;- Original project: &apos;Clase1Web&apos;&#x0D;&#x0A;- Destination element: &apos;Clase1Web/src/mx.com.Cetech.Clase1Web.SumaSerive&apos;&#x0D;&#x0A;- Original element: &apos;mx.com.Cetech.Clase1Web.SumaService.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;mx.com.Cetech.Clase1Web.SumaSerive" element1="/src&lt;mx.com.Cetech.Clase1Web{SumaService.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1507411659005" units="1" version="1.0"/>
+</session>

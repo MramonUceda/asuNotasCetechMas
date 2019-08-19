@@ -1,0 +1,29 @@
+package mx.com.cetech.SacandoEdad;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.Scanner;
+
+public class EdadActual {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Date fecha = new Date();
+		int edad;
+		SimpleDateFormat sdf = new SimpleDateFormat("dd-MM-yyyy");
+		
+		int fechaFormato =  sdf.format(fecha);
+		
+		System.out.println(fechaFormato);
+		Scanner sr = new Scanner(System.in);
+		System.out.println("Ingresa tu fecha de nacimiento (dia-mes-año)");
+		edad = sr.nextInt();
+		
+		
+		
+		
+	
+
+	}
+
+}

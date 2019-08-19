@@ -1,0 +1,12 @@
+package mx.edu.uacm.TareaEscuela;
+
+public class carroMenu {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Este programa es para usar el carro.");
+		carroCoche usar = new carroCoche();
+		usar.AbrirPuerta("si");
+	}
+
+}

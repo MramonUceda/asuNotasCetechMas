@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;mx.com.Cetech.TrabajosPorAparte.primo.java&apos; to &apos;EsPrimo.java&apos;&#x0D;&#x0A;- Original project: &apos;TrabajosPorAparte&apos;&#x0D;&#x0A;- Original element: &apos;mx.com.Cetech.TrabajosPorAparte.primo.java&apos;&#x0D;&#x0A;- Renamed element: &apos;mx.com.Cetech.TrabajosPorAparte.EsPrimo.java&apos;" description="Rename compilation unit &apos;primo.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;mx.com.Cetech.TrabajosPorAparte{primo.java" name="EsPrimo.java" references="false" stamp="1519455432080" version="1.0"/>
+</session>

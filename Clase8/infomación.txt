@@ -1,0 +1,6 @@
+En el ejercicio de Curp sale como sacar las letras que quieras ejemplo:
+Mario, solo quiero desde la M hasta la R y te lo imprime:
+MAR.
+
+
+En el ejercicio de TeamString nos ayuda a sacar la fecha del sistema.

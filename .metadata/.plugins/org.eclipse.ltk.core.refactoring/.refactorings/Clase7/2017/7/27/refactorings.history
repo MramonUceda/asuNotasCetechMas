@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;mx.com.Cetech.Clase7.Temanuevo.date&apos; to &apos;mx.com.Cetech.Clase7.Temanuevo.temaDate&apos;&#x0D;&#x0A;- Original project: &apos;Clase7&apos;&#x0D;&#x0A;- Original element: &apos;Clase7/src/mx.com.Cetech.Clase7.Temanuevo.date&apos;&#x0D;&#x0A;- Renamed element: &apos;Clase7/src/mx.com.Cetech.Clase7.Temanuevo.temaDate&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;mx.com.Cetech.Clase7.Temanuevo.date&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;mx.com.Cetech.Clase7.Temanuevo.date" name="mx.com.Cetech.Clase7.Temanuevo.temaDate" qualified="false" references="true" stamp="1499549686239" textual="false" version="1.0"/>
+</session>

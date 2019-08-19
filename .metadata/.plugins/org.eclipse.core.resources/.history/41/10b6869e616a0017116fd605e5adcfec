@@ -1,0 +1,30 @@
+
+public class estructuraelseif {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		/*
+		 * En lugar de utilizar if anidados para realiz multiples comprobaciones de los valores de las variables que llega a ser confuso 
+		 * se usa un else if
+		 */
+		
+		//boolean isCondicioUno = true;
+		//boolean isCondicioDos = false;
+		//boolean isCondicioTres = true;
+		//boolean isCondicioCuatro = true;
+		
+		
+		int opcion = 6;
+		if(opcion == 4){
+			System.out.println("Dentro del primer if");
+		}else if(opcion == 5){
+			System.out.println("Dentro del primer else if");
+		}else if(opcion == 6){
+			System.out.println("Dentro del segundo else if");
+		}else if(opcion == 7){
+			System.out.println("Dentro del tercer else if");
+		}
+		System.out.println("fin del programa.");
+	}
+
+}

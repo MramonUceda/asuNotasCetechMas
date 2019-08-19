@@ -1,0 +1,30 @@
+package mx.com.uacm.ProyectoFinalUACM;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.Reader;
+
+public class ArchivoProyecto {
+	public void escribir(Primero ingresar){
+		try {
+			File f = new File("pryecto.txt");
+			FileWriter fw;
+			BufferedWriter bw;
+			if(f.exists()){// si el archivo existe hará :
+				 fw = new FileWriter(f); //f de file
+				 bw = new BufferedWriter(fw); // fw de filewrite
+				bw.newLine(); //antes de escribir una nueva persona dejrá una linea
+				bw.write(ingresar.getNombre()+ingresar.getCelular());
+			}else{// en caso de que el archivo no exista hará lo mismo que en el if...
+				FileWriter fw = new FileWriter(f);
+				BufferedWriter bw = new BufferedWriter(fw);
+				bw.write(ingresar.getNombre()+ingresar.getCelular());
+			}
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+	}
+}

@@ -1,0 +1,10 @@
+package mx.com.Cetech.clase5.Tarea;
+
+public class Boleta {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

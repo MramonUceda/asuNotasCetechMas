@@ -1,0 +1,15 @@
+package mx.com.uacm.ProyectoFinalUACM;
+
+import java.io.File;
+import java.io.FileWriter;
+
+public class ArchivoProyecto {
+	public void escribir(Primero ingresar){
+		try {
+			File t = new File("pryecto.txt");
+			FileWriter fw = new FileWriter(t);
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;mx.com.uacm.SrgundoExamenUACM.Ejercicio.main().nombre&apos; in &apos;mx.com.uacm.SrgundoExamenUACM.Ejercicio.main()&apos; to field&#x0D;&#x0A;- Original project: &apos;SrgundoExamenUACM&apos;&#x0D;&#x0A;- Original element: &apos;mx.com.uacm.SrgundoExamenUACM.Ejercicio.main().nombre&apos;&#x0D;&#x0A;- Field name: &apos;nombres&apos;&#x0D;&#x0A;- Initialize field in method&#x0D;&#x0A;- Declared visibility: &apos;private&apos;&#x0D;&#x0A;- Declare field &apos;static&apos;" description="Convert local variable &apos;nombre&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;mx.com.uacm.SrgundoExamenUACM{Ejercicio.java" name="nombres" selection="154 23" stamp="1509482896511" static="true" version="1.0" visibility="2"/>
+</session>
